@@ -1,4 +1,4 @@
-## Instrucciones 
+## Instrucciones del proyecto 
 
 -Instalar Node 
 -Programar el código
